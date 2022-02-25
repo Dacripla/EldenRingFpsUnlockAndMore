@@ -134,7 +134,7 @@ namespace EldenRingFPSUnlockAndMore
                 Verb = "runas",
                 FileName = "cmd.exe",
                 WorkingDirectory = Path.Combine(gamePath, "GAME"),
-                Arguments = $"/C \"eldenring.exe -noeac\""
+                Arguments = $"C:\Users\Dylan\Downloads\ELDEN.RING.Deluxe.Edition.Steam.Rip-InsaneRamZes\ELDEN RING\Game\"eldenring.exe -noeac\""
             };
             Process process = new Process
             {
